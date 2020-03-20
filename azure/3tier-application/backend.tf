@@ -8,3 +8,5 @@ terraform {
     key                       = "dev_terraform.tfstate"
   }
 }
+
+#space issue solved
