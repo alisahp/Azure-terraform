@@ -6,7 +6,7 @@ terraform {
     container_name            = "alisaitcontainer"
     access_key                = wS2CX7BRX0gwIpprttVZfoeI+NUhrc6NxGAjDdTQ8fihI9urVB16o65D5GPZ8tqMM31mDME0bd8FDMSnklOGIA==  #"Copy from Console "Home >> Storage Account >> Access keys" 
     key                       = "dev_terraform.tfstate"
-  }
-}
+    }
+  }
 
-#space issue solved
+#space issue solved, space
